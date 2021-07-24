@@ -8694,6 +8694,24 @@
 					<key>WakeVerbReinit</key>
 					<true/>
 				</dict>
+				<dict>
+					<key>AFGLowPowerState</key>
+					<data>AwAAAA==</data>
+					<key>Codec</key>
+					<string>ALC897 GIGABYTE B560M AORUS PRO by haroota</string>
+					<key>CodecID</key>
+					<integer>283904151</integer>
+					<key>ConfigData</key>
+					<data>AUccEAFHHUABRx4RAUcfAQFHDAIBZxwRAWcdYAFnHhEBZx8BAVccEgFXHRABVx4RAVcfAQF3HBQBdx0gAXceEQF3HwEBtxwgAbcdQAG3HiEBtx8CAbcMAgGHHDABhx2QAYceoAGHH5EBpxw/AacdMAGnHoEBpx8BARccQAEXHdUBFx43ARcfQAGXHEABlx2QAZcegAGXHwIB1xxBAdcd5gHXHiYB1x9A</data>
+					<key>FuncGroup</key>
+					<integer>1</integer>
+					<key>LayoutID</key>
+					<integer>56</integer>
+					<key>WakeConfigData</key>
+					<data>AUcMAgFnDAABVwwAAXcMAAG3DAIBhwwAAacMAAEXDAABlwwAAdcMAA==</data>
+					<key>WakeVerbReinit</key>
+					<true/>
+				</dict>
 			</array>
 			<key>IOClass</key>
 			<string>AppleHDAHardwareConfigDriver</string>
