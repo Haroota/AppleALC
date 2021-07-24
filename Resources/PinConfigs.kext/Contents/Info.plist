@@ -7316,7 +7316,7 @@
 					<key>CodecID</key>
 					<integer>283906408</integer>
 					<key>CodecName</key>
-					<string>Realtek ALC S1220A Kushamot for Asus Z270G mb (based on Mirone's layout 7)</string>
+					<string>Realtek ALC S1220A Kushamot for Asus Z270G mb (based on Mirone&apos;s layout 7)</string>
 					<key>ConfigData</key>
 					<data>AUccEAFHHUABRx4RAUcfAQFXHFABVx0QAVceAQFXHwEBZxwwAWcdYAFnHgEBZx8BAYccYAGHHZABhx6gAYcfkAGXHHABlx2QAZcegQGXHwEBtxwgAbcdQAG3HiEBtx8BAUcMAg==</data>
 					<key>FuncGroup</key>
@@ -8691,6 +8691,24 @@
 					<integer>70</integer>
 					<key>WakeConfigData</key>
 					<data>AbcMAgFHDAICFwwC</data>
+					<key>WakeVerbReinit</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>AFGLowPowerState</key>
+					<data>AwAAAA==</data>
+					<key>Codec</key>
+					<string>ALC897 GIGABYTE B560M AORUS PRO by haroota</string>
+					<key>CodecID</key>
+					<integer>283904151</integer>
+					<key>ConfigData</key>
+					<data>AUccEAFHHUABRx4RAUcfAQFHDAIBVxxgAVcdEAFXHhEBVx8BAWccUAFnHWABZx4RAWcfAQF3HHABdx0gAXceEQF3HwEBhxwwAYcdkAGHHqEBhx8BAZcckAGXHZABlx6hAZcfAgGnHIABpx0wAacegQGnHwEBtxwgAbcdQAG3HiEBtx8CAbcMAg==</data>
+					<key>FuncGroup</key>
+					<integer>1</integer>
+					<key>LayoutID</key>
+					<integer>86</integer>
+					<key>WakeConfigData</key>
+					<data>AUcMAgFXDAABZwwAAXcMAAGHDAABlwwAAacMAAG3DAI=</data>
 					<key>WakeVerbReinit</key>
 					<true/>
 				</dict>
